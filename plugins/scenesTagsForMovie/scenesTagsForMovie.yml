@@ -1,8 +1,6 @@
 name: Movie tags from Scenes
 description: More accurately reflect your movie's tags with the tags of the scenes associated with it scenes.
-version: 0.1
-requires:
-  - PythonToolsInstaller
+version: 0.2
 exec:
   - python
   - "{pluginDir}/scenesTagsForMovie.py"
